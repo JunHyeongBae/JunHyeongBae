@@ -1,10 +1,10 @@
 # 이름 : 배준형
-### e-mail : bjh5438@naver.com
-### University : Hallym University
+## University : Hallym University
+### major : big-data
+##### e-mail : bjh5438@naver.com
+###### 관심분야 : 음악 감상, 큐브
 
-#흥미있어 하는 것, 취미 : 음악 감상, 큐브
-
-# major : big-data.
+### My Programming language skills
 * Java
 * C
 * C++
