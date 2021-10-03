@@ -1,4 +1,5 @@
 # 이름 : 배준형
+<img src = bjh.jpg height=100 width=100>
 ### University : Hallym University
 ### major : big-data
 ##### e-mail : bjh5438@naver.com
@@ -12,6 +13,8 @@
 
 ### 참여 중인 활동
 > 학술동아리 - 씨애랑
+
+
 
 ### Github address : [JunHyeongBae's Github address][github]
 
