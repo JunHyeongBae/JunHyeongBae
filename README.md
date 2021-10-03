@@ -15,4 +15,4 @@
 
 ### Github address : [JunHyeongBae's Github address][github]
 
-[git hub]:https://github.com/JunHyeongBae
+[github]:https://github.com/JunHyeongBae
