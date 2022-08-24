@@ -5,7 +5,7 @@
 + Software Convergence University
   + major : big-data
 ##### e-mail : bjh5438@naver.com
-###### 관심분야 : 음악 감상, 큐브
+###### 관심분야 : listening music, cube
 
 
 ### My Programming language skills
