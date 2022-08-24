@@ -2,7 +2,7 @@
 <img src = bjh.jpg height=100 width=100>
 
 ### University : Hallym University
-+ Software Convergence University
++ University of Information Science
   + major : big-data
 ##### e-mail : bjh5438@naver.com
 ###### 관심분야 : listening music, cube
