@@ -22,7 +22,7 @@
 |:---:|:---:|:---:|
 |씨애랑|programming language learning|X|
 |공모자들|Contest participation|X|
-|멀티플렉스|Contest participation|O|
+|멀티플렉스|programming language learning|O|
 
 
 ### Scholarship
