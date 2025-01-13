@@ -12,7 +12,6 @@
 
 * **Java**
 * C
-* C++
 * Python
 
 
@@ -27,7 +26,8 @@
 
 ### Scholarship
 
-> 2021 - 1 SW Scholarship
+> 2020 - 1 SW Scholarship
+> 2024 - 2 SW Scholarship
 
 
 ### Search engine
