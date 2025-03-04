@@ -12,7 +12,7 @@
 
 * **Java**
 * JavaScript
-* Html / css
+* HTML / CSS
 * Rust
 
 
