@@ -11,8 +11,9 @@
 ### My Programming language skills
 
 * **Java**
-* C
-* Python
+* JavaScript
+* Html / css
+* Rust
 
 
 ### Club activity history
@@ -22,6 +23,7 @@
 |씨애랑|programming language learning|X|
 |공모자들|Contest participation|X|
 |멀티플렉스|programming language learning|O|
+|암호응용연구실|research|X|
 
 
 ### Scholarship
@@ -35,6 +37,9 @@
 
 1. __Google__
 2. Naver
+3. ChatGPT
+4. Claude
+5. Perplexity
 
 
 ### Republic of Korea Army
